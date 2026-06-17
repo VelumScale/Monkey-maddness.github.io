@@ -1,6 +1,6 @@
 ---
 title: pfSense Install and VM Configuration
-date: 2025-07-28 12:00:00 
+date: 2026-03-28 12:00:00 
 categories: [Virtualization,Security]
 tags: [VMware,pfSense,Firewalls]
 ---
